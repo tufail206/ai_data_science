@@ -21,5 +21,7 @@ if menu=="Open Account":
     st.header("open your account")
     openAcount("tufail","1234123412341234",1000)
     st.success("you have created account")
+if menu=="Check Balance":
+    print("helo")
 
 
