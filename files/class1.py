@@ -1,5 +1,5 @@
 # file , two types 
-# i text form where data exist in the for of text
+# 1 text form where data exist in the for of text
 
 # binary file like mp4,mov , .png
 # both data store in system like 0,1
